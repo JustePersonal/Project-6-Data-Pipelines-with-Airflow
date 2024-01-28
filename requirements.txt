@@ -1,0 +1,5 @@
+apache-airflow
+botocore
+boto3
+configparser
+psycopg2
